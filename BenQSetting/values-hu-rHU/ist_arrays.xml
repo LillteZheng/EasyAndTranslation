@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Vas</item>
+		<item>Hét</item>
+		<item>Kedd</item>
+		<item>Szer</item>
+		<item>Csüt</item>
+		<item>Pén</item>
+		<item>Szom</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Január</item>
+		<item>Február</item>
+		<item>Március</item>
+		<item>Április</item>
+		<item>Május</item>
+		<item>Június</item>
+		<item>Július</item>
+		<item>Augusztus</item>
+		<item>Szeptember</item>
+		<item>Október</item>
+		<item>November</item>
+		<item>December</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Jan</item>
+		<item>Feb</item>
+		<item>Márc</item>
+		<item>Ápr</item>
+		<item>Máj</item>
+		<item>Jún</item>
+		<item>Júl</item>
+		<item>Aug</item>
+		<item>Szept</item>
+		<item>Okt</item>
+		<item>Nov</item>
+		<item>Dec</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Auto</item>
+		<item>Statikus</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Alap</item>
+		<item>Viselésérzékelés</item>
+		<item>Auto. fényerő</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Ki</item>
+		<item>1 perc</item>
+		<item>5 perc</item>
+		<item>10 perc</item>
+		<item>20 perc</item>
+		<item>30 perc</item>
+		<item>40 perc</item>
+		<item>50 perc</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Ki</item>
+		<item>Alacsony</item>
+		<item>Magas</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Elindítás csak az OPS elindítás opción keresztül</item>
+	</string-array>
+</resources>

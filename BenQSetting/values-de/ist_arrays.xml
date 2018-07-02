@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>So</item>
+		<item>Mo</item>
+		<item>Di</item>
+		<item>Mi</item>
+		<item>Do</item>
+		<item>Fr</item>
+		<item>Sa</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Januar</item>
+		<item>Februar</item>
+		<item>März</item>
+		<item>April</item>
+		<item>Mai</item>
+		<item>Juni</item>
+		<item>Juli</item>
+		<item>August</item>
+		<item>September</item>
+		<item>Oktober</item>
+		<item>November</item>
+		<item>Dezember</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Jan</item>
+		<item>Feb</item>
+		<item>Mär</item>
+		<item>Apr</item>
+		<item>Mai</item>
+		<item>Jun</item>
+		<item>Jul</item>
+		<item>Aug</item>
+		<item>Sep</item>
+		<item>Okt</item>
+		<item>Nov</item>
+		<item>Dez</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Auto</item>
+		<item>Statisch</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Standard</item>
+		<item>On-Body Erkennung</item>
+		<item>Automatische Helligkeit</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Aus</item>
+		<item>1 Minuten</item>
+		<item>5 Minuten</item>
+		<item>10 Minuten</item>
+		<item>20 Minuten</item>
+		<item>30 Minuten</item>
+		<item>40 Minuten</item>
+		<item>50 Minuten</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Aus</item>
+		<item>Niedrig</item>
+		<item>Hoch</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Nur über OPS Startoption starten</item>
+	</string-array>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Κυρ</item>
+		<item>Δευτ</item>
+		<item>Τρ</item>
+		<item>Τετ</item>
+		<item>Πέμ</item>
+		<item>Παρ</item>
+		<item>Σαβ</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Ιανουάριος</item>
+		<item>Φεβρουάριος</item>
+		<item>Μάρτιος</item>
+		<item>Απρίλιος</item>
+		<item>Μάιος</item>
+		<item>Ιούνιος</item>
+		<item>Ιούλιος</item>
+		<item>Αύγουστος</item>
+		<item>Σεπτέμβριος</item>
+		<item>Οκτώβριος</item>
+		<item>Νοέμβριος</item>
+		<item>Δεκέμβριος</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Ιαν</item>
+		<item>Φεβ</item>
+		<item>Μαρ</item>
+		<item>Απρ</item>
+		<item>Μάιος</item>
+		<item>Ιουν</item>
+		<item>Ιουλ</item>
+		<item>Αυγ</item>
+		<item>Σεπ</item>
+		<item>Οκτ</item>
+		<item>Νοε</item>
+		<item>Δεκ</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Αυτ.</item>
+		<item>Στατική</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Τυπική</item>
+		<item>Ανίχνευση επάνω στο σώμα</item>
+		<item>Αυτ. φωτεινότητα</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Απενεργ.</item>
+		<item>1 λεπτά</item>
+		<item>5 λεπτά</item>
+		<item>10 λεπτά</item>
+		<item>20 λεπτά</item>
+		<item>30 λεπτά</item>
+		<item>40 λεπτά</item>
+		<item>50 λεπτά</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Απενεργ.</item>
+		<item>Χαμηλή</item>
+		<item>Υψηλή</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Εκκίνηση μόνο μέσω της επιλογής εκκίνησης OPS</item>
+	</string-array>
+</resources>

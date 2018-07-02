@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Dim</item>
+		<item>Lun</item>
+		<item>Mar</item>
+		<item>Mer</item>
+		<item>Jeu</item>
+		<item>Ven</item>
+		<item>Sam</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Janvier</item>
+		<item>Février</item>
+		<item>Mars</item>
+		<item>Avril</item>
+		<item>Mai</item>
+		<item>Juin</item>
+		<item>Juillet</item>
+		<item>Août</item>
+		<item>Septembre</item>
+		<item>Octobre</item>
+		<item>Novembre</item>
+		<item>Décembre</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Janv.</item>
+		<item>Févr.</item>
+		<item>Mars</item>
+		<item>Avr.</item>
+		<item>Mai</item>
+		<item>Juin</item>
+		<item>Juil.</item>
+		<item>Août</item>
+		<item>Sept.</item>
+		<item>Oct.</item>
+		<item>Nov.</item>
+		<item>Déc.</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Auto</item>
+		<item>Statique</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Standard</item>
+		<item>Détection sur le corps</item>
+		<item>Luminosité auto</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Désactivé</item>
+		<item>1 minute</item>
+		<item>5 minutes</item>
+		<item>10 minutes</item>
+		<item>20 minutes</item>
+		<item>30 minutes</item>
+		<item>40 minutes</item>
+		<item>50 minutes</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Désactivé</item>
+		<item>Faible</item>
+		<item>Élevée</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Démarrage seulement via l'option de démarrage OPS</item>
+	</string-array>
+</resources>

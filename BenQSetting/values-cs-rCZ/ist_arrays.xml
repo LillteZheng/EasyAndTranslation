@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Ne</item>
+		<item>Po</item>
+		<item>Út</item>
+		<item>St</item>
+		<item>Čt</item>
+		<item>Pá</item>
+		<item>So</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Leden</item>
+		<item>Únor</item>
+		<item>Březen</item>
+		<item>Duben</item>
+		<item>Květen</item>
+		<item>Červen</item>
+		<item>Červenec</item>
+		<item>Srpen</item>
+		<item>Září</item>
+		<item>Říjen</item>
+		<item>Listopad</item>
+		<item>Prosinec</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Led</item>
+		<item>Úno</item>
+		<item>Bře</item>
+		<item>Dub</item>
+		<item>Kv</item>
+		<item>Čer</item>
+		<item>Čvc</item>
+		<item>Srp</item>
+		<item>Zář</item>
+		<item>Říj</item>
+		<item>Lis</item>
+		<item>Pro</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Automaticky</item>
+		<item>Statický</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Standardní</item>
+		<item>Detekce na těle</item>
+		<item>Automatické nastavení jasu</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Vyp.</item>
+		<item>1 minuta</item>
+		<item>5 minut</item>
+		<item>10 minut</item>
+		<item>20 minut</item>
+		<item>30 minut</item>
+		<item>40 minut</item>
+		<item>50 minut</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Vyp.</item>
+		<item>Nízká</item>
+		<item>Vysoká</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Spuštění pouze prostřednictvím možnosti spuštění OPS</item>
+	</string-array>
+</resources>

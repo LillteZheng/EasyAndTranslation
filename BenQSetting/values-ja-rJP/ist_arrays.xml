@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>日</item>
+		<item>月</item>
+		<item>火</item>
+		<item>水</item>
+		<item>木</item>
+		<item>金</item>
+		<item>土</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>1 月</item>
+		<item>2 月</item>
+		<item>3 月</item>
+		<item>4 月</item>
+		<item>5 月</item>
+		<item>6 月</item>
+		<item>7 月</item>
+		<item>8 月</item>
+		<item>9 月</item>
+		<item>10 月</item>
+		<item>11 月</item>
+		<item>12 月</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>1 月</item>
+		<item>2 月</item>
+		<item>3 月</item>
+		<item>4 月</item>
+		<item>5 月</item>
+		<item>6 月</item>
+		<item>7 月</item>
+		<item>8 月</item>
+		<item>9 月</item>
+		<item>10 月</item>
+		<item>11 月</item>
+		<item>12 月</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>自動</item>
+		<item>静的</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>標準</item>
+		<item>持ち運び探知機能</item>
+		<item>自動輝度調整</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>オフ</item>
+		<item>1 分</item>
+		<item>5 分</item>
+		<item>10 分</item>
+		<item>20 分</item>
+		<item>30 分</item>
+		<item>40 分</item>
+		<item>50 分</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>オフ</item>
+		<item>低</item>
+		<item>高</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2.4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>OPS スタートアップオプションを介してのみスタートアップ</item>
+	</string-array>
+</resources>

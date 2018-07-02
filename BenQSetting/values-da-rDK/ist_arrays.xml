@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Søn</item>
+		<item>Man</item>
+		<item>Tirs</item>
+		<item>Ons</item>
+		<item>Tors</item>
+		<item>Fre</item>
+		<item>Lør</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Januar</item>
+		<item>Februar</item>
+		<item>Marts</item>
+		<item>April</item>
+		<item>Maj</item>
+		<item>Juni</item>
+		<item>Juli</item>
+		<item>August</item>
+		<item>September</item>
+		<item>Oktober</item>
+		<item>November</item>
+		<item>December</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Jan</item>
+		<item>Feb</item>
+		<item>Mar</item>
+		<item>Apr</item>
+		<item>Maj</item>
+		<item>Jun</item>
+		<item>Jul</item>
+		<item>Aug</item>
+		<item>Sep</item>
+		<item>Okt</item>
+		<item>Nov</item>
+		<item>Dec</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Automatisk</item>
+		<item>Statisk</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Standard</item>
+		<item>Detektion på krop</item>
+		<item>Auto.-lysstyrke</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Fra</item>
+		<item>1 minutter</item>
+		<item>5 minutter</item>
+		<item>10 minutter</item>
+		<item>20 minutter</item>
+		<item>30 minutter</item>
+		<item>40 minutter</item>
+		<item>50 minutter</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Fra</item>
+		<item>Lav</item>
+		<item>Høj</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Opstart kun vis Valgmulighed for OPS opstart</item>
+	</string-array>
+</resources>

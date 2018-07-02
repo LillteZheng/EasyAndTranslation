@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">设置</string>
+	<string name="title_general">一般</string>
+	<string name="title_audio">音频</string>
+	<string name="title_network">网络</string>
+	<string name="title_device">设备</string>
+	<string name="title_system">系统</string>
+	<string name="eyecare">护眼</string>
+	<string name="android">Android</string>
+	<string name="hdmi1">HDMI1</string>
+	<string name="hdmi2">HDMI2</string>
+	<string name="hdmi3">HDMI3</string>
+	
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Dom</item>
+		<item>Lun</item>
+		<item>Mar</item>
+		<item>Mer</item>
+		<item>Gio</item>
+		<item>Ven</item>
+		<item>Sab</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Gennaio</item>
+		<item>Febbraio</item>
+		<item>Marzo</item>
+		<item>Aprile</item>
+		<item>Maggio</item>
+		<item>Giugno</item>
+		<item>Luglio</item>
+		<item>Agosto</item>
+		<item>Settembre</item>
+		<item>Ottobre</item>
+		<item>Novembre</item>
+		<item>Dicembre</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Gen</item>
+		<item>Feb</item>
+		<item>Mar</item>
+		<item>Apr</item>
+		<item>Mag</item>
+		<item>Giu</item>
+		<item>Lug</item>
+		<item>Ago</item>
+		<item>Set</item>
+		<item>Ott</item>
+		<item>Nov</item>
+		<item>Dic</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Auto</item>
+		<item>Statico</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Standard</item>
+		<item>Rilevamento su corpo</item>
+		<item>Luminosità automatica</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Disattivo</item>
+		<item>1 minuto</item>
+		<item>5 minuti</item>
+		<item>10 minuti</item>
+		<item>20 minuti</item>
+		<item>30 minuti</item>
+		<item>40 minuti</item>
+		<item>50 minuti</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Disattivo</item>
+		<item>Basso</item>
+		<item>Alto</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Avvia solo tramite opzione avvio OPS</item>
+	</string-array>
+</resources>

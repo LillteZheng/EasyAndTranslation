@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>CN</item>
+		<item>T2</item>
+		<item>T3</item>
+		<item>T4</item>
+		<item>T5</item>
+		<item>T6</item>
+		<item>T7</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Tháng 1</item>
+		<item>Tháng 2</item>
+		<item>Tháng 3</item>
+		<item>Tháng 4</item>
+		<item>Tháng 5</item>
+		<item>Tháng 6</item>
+		<item>Tháng 7</item>
+		<item>Tháng 8</item>
+		<item>Tháng 9</item>
+		<item>Tháng 10</item>
+		<item>Tháng 11</item>
+		<item>Tháng 12</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Th1</item>
+		<item>Thg 2</item>
+		<item>Thg 3</item>
+		<item>Thg 4</item>
+		<item>Thg 5</item>
+		<item>Thg 6</item>
+		<item>Thg 7</item>
+		<item>Thg 8</item>
+		<item>Thg 9</item>
+		<item>Thg 10</item>
+		<item>Thg 11</item>
+		<item>Thg 12</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Tự động</item>
+		<item>Tĩnh</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Tiêu chuẩn</item>
+		<item>Phát hiện đang cầm</item>
+		<item>Tự động chỉnh sáng</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Tắt</item>
+		<item>1 phút</item>
+		<item>5 phút</item>
+		<item>10 phút</item>
+		<item>20 phút</item>
+		<item>30 phút</item>
+		<item>40 phút</item>
+		<item>50 phút</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Tắt</item>
+		<item>Thấp</item>
+		<item>Cao</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Khởi khởi động qua tùy chọn khởi động OPS</item>
+	</string-array>
+</resources>

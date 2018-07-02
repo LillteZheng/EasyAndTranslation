@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>الأحد</item>
+		<item>الاثنين</item>
+		<item>الثلاثاء</item>
+		<item>الأربعاء</item>
+		<item>الخميس</item>
+		<item>الجمعة</item>
+		<item>السبت</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>يناير</item>
+		<item>فبراير</item>
+		<item>مارس</item>
+		<item>أبريل</item>
+		<item>مايو</item>
+		<item>يونيو</item>
+		<item>يوليو</item>
+		<item>أغسطس</item>
+		<item>سبتمبر</item>
+		<item>أكتوبر</item>
+		<item>نوفمبر</item>
+		<item>ديسمبر</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>يناير</item>
+		<item>فبراير</item>
+		<item>مارس</item>
+		<item>أبريل</item>
+		<item>مايو</item>
+		<item>يونيو</item>
+		<item>يوليو</item>
+		<item>أغسطس</item>
+		<item>سبتمبر</item>
+		<item>أكتوبر</item>
+		<item>نوفمبر</item>
+		<item>ديسمبر</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>تلقائي</item>
+		<item>ثابت</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>قياسي</item>
+		<item>اكتشاف الجسم</item>
+		<item>سطوع تلقائي</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>إيقاف</item>
+		<item>1 دقيقة</item>
+		<item>5 دقيقة</item>
+		<item>10 دقائق</item>
+		<item>20 دقيقة</item>
+		<item>30 دقيقة</item>
+		<item>40 دقيقة</item>
+		<item>50 دقيقة</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>إيقاف</item>
+		<item>منخفض</item>
+		<item>مرتفع</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2.4جيجاهرتز</item>
+		<item>5جيجاهرتز</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>480 × 720</item>
+		<item>1080 × 1920</item>
+		<item>2160 × 3840</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>بدء التشغيل فقط من خلال خيار بدء تشغيل OPS</item>
+	</string-array>
+</resources>

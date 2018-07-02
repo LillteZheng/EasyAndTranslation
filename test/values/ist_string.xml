@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Setting</string>
+	<string name="title_general">General</string>
+	<string name="title_audio">Audio</string>
+	<string name="title_network">Network</string>
+	<string name="title_device">Device</string>
+	<string name="title_system">System</string>
+	<string name="eyecare">Eye Care</string>
+	<string name="android">Android</string>
+	<string name="hdmi1">HDMI1</string>
+	<string name="hdmi2">HDMI2</string>
+	<string name="hdmi3">HDMI3</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>یک</item>
+		<item>دو</item>
+		<item>سه</item>
+		<item>چهار</item>
+		<item>پنج</item>
+		<item>جمعه</item>
+		<item>شنبه</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>ژانویه</item>
+		<item>فوریه</item>
+		<item>مارس</item>
+		<item>آوریل</item>
+		<item>مه</item>
+		<item>ژوئن</item>
+		<item>ژوئیه</item>
+		<item>اوت</item>
+		<item>سپتامبر</item>
+		<item>اکتبر</item>
+		<item>نوامبر</item>
+		<item>دسامبر</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>ژانویه</item>
+		<item>فوریه</item>
+		<item>مارس</item>
+		<item>آوریل</item>
+		<item>مه</item>
+		<item>ژوئن</item>
+		<item>ژوئیه</item>
+		<item>اوت</item>
+		<item>سپتامبر</item>
+		<item>اکتبر</item>
+		<item>نوامبر</item>
+		<item>دسامبر</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>خودکار</item>
+		<item>ایستا</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>استاندارد</item>
+		<item>شناسایی روی بدنه</item>
+		<item>روشنايی خودکار</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>خاموش</item>
+		<item>1 دقیقه</item>
+		<item>5 دقیقه</item>
+		<item>10 دقیقه</item>
+		<item>20 دقیقه</item>
+		<item>30 دقیقه</item>
+		<item>40 دقیقه</item>
+		<item>50 دقیقه</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>خاموش</item>
+		<item>پایین</item>
+		<item>بالا</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2.4گیگاهرتز</item>
+		<item>5گیگاهرتز</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>‎480 x 720</item>
+		<item>‎1080 x 1920</item>
+		<item>‎2160 x 3840</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>شروع به کار فقط از طریق گزینه شروع به کار OPS</item>
+	</string-array>
+</resources>

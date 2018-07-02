@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Su</item>
+		<item>Ma</item>
+		<item>Ti</item>
+		<item>Ke</item>
+		<item>To</item>
+		<item>Pe</item>
+		<item>La</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Tammikuu</item>
+		<item>Helmikuu</item>
+		<item>Maaliskuu</item>
+		<item>Huhtikuu</item>
+		<item>Toukokuu</item>
+		<item>Kesäkuu</item>
+		<item>Heinäkuu</item>
+		<item>Elokuu</item>
+		<item>Syyskuu</item>
+		<item>Lokakuu</item>
+		<item>Marraskuu</item>
+		<item>Joulukuu</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Tammi</item>
+		<item>Helmi</item>
+		<item>Maalis</item>
+		<item>Huhti</item>
+		<item>Touko</item>
+		<item>Kesä</item>
+		<item>Heinä</item>
+		<item>Elo</item>
+		<item>Syys</item>
+		<item>Loka</item>
+		<item>Marras</item>
+		<item>Joulu</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Auto</item>
+		<item>Staattinen</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Standardi</item>
+		<item>On-body-tunnistus</item>
+		<item>Autom. kirkkaus</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Pois</item>
+		<item>1 minuuttia</item>
+		<item>5 minuuttia</item>
+		<item>10 minuuttia</item>
+		<item>20 minuuttia</item>
+		<item>30 minuuttia</item>
+		<item>40 minuuttia</item>
+		<item>50 minuuttia</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Pois</item>
+		<item>Matala</item>
+		<item>Korkea</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Käynnistys vain OPS-käynnistysvaihtoehdon kautta</item>
+	</string-array>
+</resources>

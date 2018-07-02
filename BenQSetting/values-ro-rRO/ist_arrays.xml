@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name ="timer_weeks">
+		<item>Dum</item>
+		<item>Lun</item>
+		<item>Mar</item>
+		<item>Mie</item>
+		<item>Joi</item>
+		<item>Vin</item>
+		<item>Sâm</item>
+	</string-array>
+
+	<string-array name ="montharray">
+		<item>Ianuarie</item>
+		<item>Februarie</item>
+		<item>Martie</item>
+		<item>Aprilie</item>
+		<item>Mai</item>
+		<item>Iunie</item>
+		<item>Iulie</item>
+		<item>August</item>
+		<item>Septembrie</item>
+		<item>Octombrie</item>
+		<item>Noiembrie</item>
+		<item>Decembrie</item>
+	</string-array>
+
+	<string-array name ="montharray_short">
+		<item>Ian</item>
+		<item>Feb</item>
+		<item>Mar</item>
+		<item>Apr</item>
+		<item>Mai</item>
+		<item>Iun</item>
+		<item>Iul</item>
+		<item>Aug</item>
+		<item>Sep</item>
+		<item>Oct</item>
+		<item>Noi</item>
+		<item>Dec</item>
+	</string-array>
+
+	<string-array name ="ethernet_ip_types">
+		<item>Automat</item>
+		<item>Static</item>
+	</string-array>
+
+	<string-array name ="display_eye_care">
+		<item>Standard</item>
+		<item>Detectare pe corp</item>
+		<item>Luminozitate automată</item>
+	</string-array>
+
+	<string-array name ="display_sleep_mode">
+		<item>Oprit</item>
+		<item>1 minut</item>
+		<item>5 minute</item>
+		<item>10 minute</item>
+		<item>20 minute</item>
+		<item>30 minute</item>
+		<item>40 minute</item>
+		<item>50 minute</item>
+	</string-array>
+
+	<string-array name ="display_sleep_time">
+		<item>0.0</item>
+		<item>1.0</item>
+		<item>5.0</item>
+		<item>10.0</item>
+		<item>20.0</item>
+		<item>30.0</item>
+		<item>40.0</item>
+		<item>50.0</item>
+	</string-array>
+
+	<string-array name ="display_power_save">
+		<item>Oprit</item>
+		<item>Mică</item>
+		<item>Mare</item>
+	</string-array>
+
+	<string-array name ="wifi_ap_band">
+		<item>2,4GHz</item>
+		<item>5GHz</item>
+	</string-array>
+
+	<string-array name ="display_hdmi_out">
+		<item>720 x 480</item>
+		<item>1920 x 1080</item>
+		<item>3840 x 2160</item>
+	</string-array>
+
+	<string-array name ="startup_ops_mode">
+		<item>Pornire doar prin opţiunea pornire OPS</item>
+	</string-array>
+</resources>
